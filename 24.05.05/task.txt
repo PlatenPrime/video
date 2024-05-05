@@ -1,0 +1,13 @@
+
+
+
+Як додати елементи 
+до масиву в JavaScript?
+
+1. Push() 
+2. Unshift()
+3. Concat()
+4. Spread ...
+5. Splice()
+6. Length
+7. Index
