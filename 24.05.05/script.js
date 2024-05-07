@@ -139,3 +139,10 @@ console.log(myArraySplice);
  myArrayIndex[9] = 10;
  console.log(myArrayIndex);
  // [1, 2, 3, 4, , , , , , 10]
+
+
+
+
+
+
+ 
