@@ -8,4 +8,4 @@ function rot13(str) {
   }
   
   // Приклад
-  console.log(rot13("p World!")); // На виході: "Uryyb Jbeyq!"
+  console.log(rot13("Hello World!")); // На виході: "Uryyb Jbeyq!"
